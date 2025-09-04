@@ -4,7 +4,7 @@ Un sistema simple en Python para gestionar las calificaciones de estudiantes uni
 
 ## Descripción
 
-Este programa permite a los estudiantes registrar, modificar, eliminar y consultar sus calificaciones en diferentes materias del semestre. Incluye funcionalidades para calcular el promedio general.
+Este programa permite al usuario registrar, modificar, eliminar y consultar sus calificaciones en diferentes materias del semestre. Incluye funcionalidades para calcular el promedio general.
 
 ## Características
 
@@ -44,8 +44,8 @@ Este programa permite a los estudiantes registrar, modificar, eliminar y consult
 
 ## Autor
 
-Juan Pablo Isaza Piñeros
-
+Yaritza Liliana Parra Castiblanco
+Heidy Catherine Vasquez Cañon
 ## Estructura del Proyecto
 
 ```
